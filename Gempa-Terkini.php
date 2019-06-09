@@ -1,8 +1,7 @@
 #!/usr/bin/php
 <?php
 // Data Gempa Terkini
-// Coded By Rafsanzani Suhada
-// ZeroByte.ID
+// Coded By MR.T
 
 function main(){
 	$url = "http://data.bmkg.go.id/autogempa.xml";
